@@ -23,8 +23,4 @@ On Windows, you can also drag the project folder onto love.exe.
 ## My Own Change
 I added Space-to-serve: the ball waits in the center until Space is pressed, including after each point. I also added a scoreboard, different paddle colors, and an R key to reset the game.
 
-## Screenshot
-![Pong gameplay](screenshots/pong.png)
 
-## Demo
-[Watch the gameplay video](demo/pong-demo.mp4)
